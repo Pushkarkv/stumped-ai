@@ -524,7 +524,7 @@ stumped-ai/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/Priyanshukv06/stumped-ai.git
+git clone https://github.com/Pushkarkv/stumped-ai.git
 cd stumped-ai
 pip install -r requirements.txt
 ```
